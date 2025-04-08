@@ -1,7 +1,7 @@
 {
     "function": "minecraft:set_components",
     "components": {
-      "minecraft:item_name": "{\"bold\":false,\"italic\":false,\"text\":\"Lit Campfire\"}",
+      "minecraft:item_name": {"bold":false,"italic":false,"text":"Lit Campfire"},
       "minecraft:block_state": {
         "lit": "true"
       },

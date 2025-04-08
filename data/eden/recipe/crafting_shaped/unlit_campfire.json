@@ -13,7 +13,7 @@
   ],
   "result": {
     "components": {
-      "minecraft:item_name": "{\"bold\":false,\"italic\":false,\"text\":\"Unlit Campfire\"}",
+      "minecraft:item_name": {"bold":false,"italic":false,"text":"Unlit Campfire"},
       "minecraft:block_state": {
         "lit": "false"
       },
